@@ -5,6 +5,7 @@ This project analyzes raw data of a company (unknown, data downloaded from Kaggl
 The dataset spans from 2011 to 2016 and has been processed using Excel to generate business insights for non-technical users like managers and sales departments.
 
 Dataset
+
 The dataset includes:
 Raw Data: Raw data.csv contains unprocessed company data.
 Cleaned Data & Insights: Cleaned Data_Pivot_Tables_Dashboard.csv includes cleaned data, Pivot Tables, Dashboards with charts, slicers, and additional notes for business insights.
@@ -20,6 +21,7 @@ Use slicers and charts for interactive exploration of data trends.
 
 Tools & Technologies Used: 
 Spreadsheet Software: Microsoft Excel
+
 Data Format: CSV and xlsx
 
 Author: 

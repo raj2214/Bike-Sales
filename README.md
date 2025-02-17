@@ -20,7 +20,6 @@ How to Use:
 Open Cleaned Data_Pivot_Tables_Dashboard.csv in Excel
 .
 Explore the Pivot Tables and Dashboards to analyze business insights.
-
 Use slicers and charts for interactive exploration of data trends.
 
 Tools & Technologies Used: 

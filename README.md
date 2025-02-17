@@ -7,7 +7,9 @@ The dataset spans from 2011 to 2016 and has been processed using Excel to genera
 Dataset
 
 The dataset includes:
+
 Raw Data: Raw data.csv contains unprocessed company data.
+
 Cleaned Data & Insights: Cleaned Data_Pivot_Tables_Dashboard.csv includes cleaned data, Pivot Tables, Dashboards with charts, slicers, and additional notes for business insights.
 
 Project Components: 
@@ -15,8 +17,10 @@ Project Components:
 2. Data Analysis & Visualization: Business insights are extracted through Excel Pivot Tables. Dashboards with charts and slicers provide interactive visualizations for easy understanding.
 
 How to Use: 
-Open Cleaned Data_Pivot_Tables_Dashboard.csv in Excel.
+Open Cleaned Data_Pivot_Tables_Dashboard.csv in Excel
+.
 Explore the Pivot Tables and Dashboards to analyze business insights.
+
 Use slicers and charts for interactive exploration of data trends.
 
 Tools & Technologies Used: 
